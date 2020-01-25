@@ -1,6 +1,6 @@
 ---
 portfolio:
-  enable: false
+  enable: true
   title: My work
   portfolio_item:
   - name: Tag Design
