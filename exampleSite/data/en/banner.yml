@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: katka.webp
+  bg_image_webp: hero-area.webp
   bg_image: hero-area.jpg
   icon: ''
   title: Coming soon...
