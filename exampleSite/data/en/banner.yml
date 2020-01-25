@@ -7,6 +7,6 @@ banner:
   title: Coming soon...
   content: ''
   button:
-    enable: true
+    enable: false
     label: Explore Us
     link: "#services"
