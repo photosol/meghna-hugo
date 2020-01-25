@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/bg-white-wall.jpg
-  bg_image: images/backgrounds/bg-white-wall.webp
+  bg_image_webp: images/banner- katka.jpg
+  bg_image: images/banner-katka.webp
   icon: ''
   title: Coming soon...
   content: ''
