@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/banner-katka.jpg
-  bg_image: images/banner-katka.webp
+  bg_image_webp: images/backgrounds/bg-katka.webp
+  bg_image: images/backgrounds/bg-katka.jpg
   icon: ''
   title: Coming soon...
   content: ''
