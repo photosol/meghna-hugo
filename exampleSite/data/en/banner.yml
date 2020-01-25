@@ -1,12 +1,11 @@
 ---
 banner:
   enable: true
-  bg_image_webp: DSC_3386.webp
-  bg_image: DSC_3386.jpg
+  bg_image_webp: ''
+  bg_image: ''
   icon: ''
   title: Coming soon...
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: ''
   button:
     enable: true
     label: Explore Us
